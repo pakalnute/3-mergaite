@@ -1,3 +1,4 @@
+# Procesas
 - [ ]pradine failu struktura
 index.html
 .gitignore
@@ -12,12 +13,12 @@ iterpti nuoroda, kur tas musu kodas gali buti pamatytas
 panaudoti reliatyvu kelia
 -[ ] aprasyti stilius
 
-Pasiskaitymui
+# Pasiskaitymui
 apie cia naudojama rasymo sintakse (md - markdown) https://guides.github.com/features/mastering-markdown/
 
-Paint.net naudojimas
+# Paint.net naudojimas
 
-Norint iskirpti fona:
+# Norint iskirpti fona:
 
 1. Magic wand -> tolerance
 2. ctrl + i
