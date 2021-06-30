@@ -1,0 +1,41 @@
+body{
+    background-color: #F8F8F8;
+}
+header{
+    display: inline-block; 
+    width: 800px;
+    margin-left: calc(50% - 400px);
+}
+header > img{
+    float: left;
+}
+nav{
+    float: right;
+}
+a{
+
+}
+main{
+    display: inline-block; 
+    width: 800px;
+    margin-left: calc(50% - 400px);
+
+}
+div{
+    display: inline-block;
+    width: 45%;
+    float: left;
+
+}
+h1{
+
+}
+p{
+
+}
+main > img{
+    display: inline-block;
+    width: 50%;
+    float: right;
+    background-color:red;
+}
