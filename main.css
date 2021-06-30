@@ -15,17 +15,38 @@ header > img{
 }
 nav{
     float: right;
+    margin-top: 7px;
 }
 a{
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    border: 5px solid transparent;
+    border-radius: 18px;
+    color: #9e9e9e;
 
 }
+a:last-child{
+    border-color: #9e9e9e;
+    text-transform: uppercase;
+    margin: left;
+}
+    
+    
+
+
 main{
+    display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);
 
 }
 div{
-    width: 25%;
+    width: 45%;
     float: left;
     margin-top: 30px;
 
@@ -33,7 +54,7 @@ div{
 h1{
     margin-top: 0;
     font-size: 100px;
-    color: #9F9F9F;
+    color: #9e9e9e;
 
 
 }
@@ -42,7 +63,7 @@ p{
     font-size: 32px;
     color: #9F9F9F;
 }
-main > img{
+main > img {
     width: 50%; 
     float: right;
 }
